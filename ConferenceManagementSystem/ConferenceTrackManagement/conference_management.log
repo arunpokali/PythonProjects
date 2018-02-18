@@ -1,0 +1,1821 @@
+2017-11-18 23:41:15,648:INFO: Conference Management Started. 
+2017-11-18 23:41:15,648:INFO: Reading Input file (proposed talks. 
+2017-11-18 23:41:15,651:INFO: Input file Reading completed.
+2017-11-18 23:41:15,651:INFO: Conference Tracker Started .. 
+2017-11-18 23:41:15,653:INFO: Conference Tracker has been created .. 
+2017-11-18 23:48:59,179:INFO: Conference Management Started. 
+2017-11-18 23:48:59,182:INFO: Reading Input file (proposed talks. 
+2017-11-18 23:48:59,185:INFO: Input file Reading completed.
+2017-11-18 23:48:59,186:INFO: Conference Tracker Started .. 
+2017-11-18 23:48:59,188:INFO: Conference Tracker has been created .. 
+2017-11-24 22:35:45,764:INFO: Conference Management Started. 
+2017-11-24 22:35:45,767:INFO: Reading Input file (proposed talks. 
+2017-11-24 22:35:45,772:INFO: Input file Reading completed.
+2017-11-24 22:35:45,776:INFO: Conference Tracker Started .. 
+2017-11-24 22:35:45,779:INFO: Conference Tracker has been created .. 
+2017-11-25 11:05:47,280:INFO: Conference Management Started. 
+2017-11-25 11:05:47,283:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:05:47,287:INFO: Input file Reading completed.
+2017-11-25 11:05:47,287:INFO: Conference Tracker Started .. 
+2017-11-25 11:05:47,289:INFO: Conference Tracker has been created .. 
+2017-11-25 11:40:55,653:INFO: Conference Management Started. 
+2017-11-25 11:40:55,656:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:40:55,660:INFO: Input file Reading completed.
+2017-11-25 11:40:55,661:INFO: Conference Tracker Started .. 
+2017-11-25 11:40:55,664:INFO: Conference Tracker has been created .. 
+2017-11-25 11:41:12,285:INFO: Conference Management Started. 
+2017-11-25 11:41:12,287:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:41:12,291:INFO: Input file Reading completed.
+2017-11-25 11:41:12,291:INFO: Conference Tracker Started .. 
+2017-11-25 11:41:12,294:INFO: Conference Tracker has been created .. 
+2017-11-25 11:41:43,569:INFO: Conference Management Started. 
+2017-11-25 11:41:43,572:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:41:43,576:INFO: Input file Reading completed.
+2017-11-25 11:41:43,576:INFO: Conference Tracker Started .. 
+2017-11-25 11:41:43,580:INFO: Conference Tracker has been created .. 
+2017-11-25 11:42:39,546:INFO: Conference Management Started. 
+2017-11-25 11:42:39,549:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:42:39,553:INFO: Input file Reading completed.
+2017-11-25 11:42:39,553:INFO: Conference Tracker Started .. 
+2017-11-25 11:42:39,556:INFO: Conference Tracker has been created .. 
+2017-11-25 11:45:03,342:INFO: Conference Management Started. 
+2017-11-25 11:45:03,344:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:45:03,348:INFO: Input file Reading completed.
+2017-11-25 11:45:03,349:INFO: Conference Tracker Started .. 
+2017-11-25 11:45:03,352:INFO: Conference Tracker has been created .. 
+2017-11-25 11:48:41,849:INFO: Conference Management Started. 
+2017-11-25 11:48:41,851:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:48:41,855:INFO: Input file Reading completed.
+2017-11-25 11:48:41,856:INFO: Conference Tracker Started .. 
+2017-11-25 11:52:21,263:INFO: Conference Management Started. 
+2017-11-25 11:52:21,267:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:52:21,272:INFO: Input file Reading completed.
+2017-11-25 11:52:21,273:INFO: Conference Tracker Started .. 
+2017-11-25 11:52:21,277:INFO: Conference Tracker has been created .. 
+2017-11-25 11:59:32,296:INFO: Conference Management Started. 
+2017-11-25 11:59:32,299:INFO: Reading Input file (proposed talks. 
+2017-11-25 11:59:32,302:INFO: Input file Reading completed.
+2017-11-25 11:59:32,303:INFO: Conference Tracker Started .. 
+2017-11-25 11:59:32,303:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 9:00:00
+2017-11-25 11:59:32,303:DEBUG: Talk : Woah 30min ; Time : 30 , start: 10:00:00
+2017-11-25 11:59:32,303:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:30:00
+2017-11-25 11:59:32,303:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:15:00
+2017-11-25 11:59:32,304:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 11:59:32,304:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 11:59:32,304:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 11:59:32,304:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 12:00:00
+2017-11-25 11:59:32,304:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 11:59:32,304:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 12:00:00
+2017-11-25 11:59:32,305:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 11:59:32,305:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 11:59:32,305:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 11:59:32,305:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 11:59:32,305:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 11:59:32,306:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 11:59:32,306:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 11:59:32,306:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 12:00:00
+2017-11-25 11:59:32,306:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 11:59:32,306:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 11:59:32,306:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 13:00:00
+2017-11-25 11:59:32,307:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:00:00
+2017-11-25 11:59:32,307:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 15:00:00
+2017-11-25 11:59:32,307:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:45:00
+2017-11-25 11:59:32,307:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:30:00
+2017-11-25 11:59:32,307:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:30:00
+2017-11-25 11:59:32,307:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 11:59:32,308:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 17:00:00
+2017-11-25 11:59:32,308:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 17:00:00
+2017-11-25 11:59:32,308:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 17:00:00
+2017-11-25 11:59:32,308:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 17:00:00
+2017-11-25 11:59:32,309:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 11:59:32,309:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 17:00:00
+2017-11-25 11:59:32,309:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 17:00:00
+2017-11-25 11:59:32,309:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 11:59:32,309:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 17:00:00
+2017-11-25 11:59:32,310:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:00:00
+2017-11-25 11:59:32,310:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 9:30:00
+2017-11-25 11:59:32,310:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 10:00:00
+2017-11-25 11:59:32,311:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 10:45:00
+2017-11-25 11:59:32,311:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:15:00
+2017-11-25 11:59:32,311:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:15:00
+2017-11-25 11:59:32,311:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:45:00
+2017-11-25 11:59:32,311:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:45:00
+2017-11-25 11:59:32,311:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:45:00
+2017-11-25 11:59:32,312:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 11:59:32,312:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:50:00
+2017-11-25 11:59:32,312:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 13:00:00
+2017-11-25 11:59:32,312:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 13:30:00
+2017-11-25 11:59:32,312:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 14:00:00
+2017-11-25 11:59:32,313:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 14:30:00
+2017-11-25 11:59:32,313:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 14:35:00
+2017-11-25 11:59:32,313:INFO: Conference Tracker has been created .. 
+2017-11-25 12:20:25,465:INFO: Conference Management Started. 
+2017-11-25 12:20:25,468:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:20:25,472:INFO: Input file Reading completed.
+2017-11-25 12:20:25,474:INFO: Conference Tracker Started .. 
+2017-11-25 12:20:25,474:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:00:00
+2017-11-25 12:20:25,474:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:30:00
+2017-11-25 12:20:25,475:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 10:15:00
+2017-11-25 12:20:25,475:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:15:00
+2017-11-25 12:20:25,475:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:15:00
+2017-11-25 12:20:25,475:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:20:25,475:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:45:00
+2017-11-25 12:20:25,476:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:45:00
+2017-11-25 12:20:25,476:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:20:25,476:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:20:25,476:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:20:25,476:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:20:25,477:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 12:20:25,477:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:20:25,477:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:20:25,477:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:20:25,478:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:20:25,478:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:20:25,478:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:20:25,478:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:20:25,479:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:20:25,480:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 13:30:00
+2017-11-25 12:20:25,480:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 14:15:00
+2017-11-25 12:20:25,480:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 15:00:00
+2017-11-25 12:20:25,480:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:00:00
+2017-11-25 12:20:25,481:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:30:00
+2017-11-25 12:20:25,481:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:30:00
+2017-11-25 12:20:25,481:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 12:20:25,481:DEBUG: Talk : Woah 30min ; Time : 30 , start: 17:00:00
+2017-11-25 12:20:25,481:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 17:00:00
+2017-11-25 12:20:25,481:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 17:00:00
+2017-11-25 12:20:25,482:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 12:20:25,482:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 17:00:00
+2017-11-25 12:20:25,482:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 17:00:00
+2017-11-25 12:20:25,482:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 17:00:00
+2017-11-25 12:20:25,482:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 9:00:00
+2017-11-25 12:20:25,482:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 9:30:00
+2017-11-25 12:20:25,482:DEBUG: Talk : Woah 30min ; Time : 30 , start: 9:35:00
+2017-11-25 12:20:25,483:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 10:05:00
+2017-11-25 12:20:25,483:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 10:35:00
+2017-11-25 12:20:25,483:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 12:20:25,483:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:35:00
+2017-11-25 12:20:25,483:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:35:00
+2017-11-25 12:20:25,483:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:35:00
+2017-11-25 12:20:25,483:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:20:25,483:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 13:30:00
+2017-11-25 12:20:25,483:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 14:15:00
+2017-11-25 12:20:25,484:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:00:00
+2017-11-25 12:20:25,484:INFO: Conference Tracker has been created .. 
+2017-11-25 12:24:28,188:INFO: Conference Management Started. 
+2017-11-25 12:24:28,191:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:24:28,191:INFO: Input file Reading completed.
+2017-11-25 12:24:28,192:INFO: Conference Tracker Started .. 
+2017-11-25 12:24:28,192:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 9:00:00
+2017-11-25 12:24:28,193:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 10:00:00
+2017-11-25 12:24:28,193:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 10:45:00
+2017-11-25 12:24:28,194:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:15:00
+2017-11-25 12:24:28,194:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:24:28,194:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:24:28,194:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:45:00
+2017-11-25 12:24:28,195:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:45:00
+2017-11-25 12:24:28,195:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:24:28,195:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:24:28,195:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 12:24:28,195:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:24:28,195:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:24:28,195:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:24:28,196:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:24:28,196:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:24:28,197:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:24:28,197:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:24:28,198:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:24:28,198:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:24:28,198:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:24:28,199:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 13:00:00
+2017-11-25 12:24:28,199:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 13:45:00
+2017-11-25 12:24:28,200:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 14:30:00
+2017-11-25 12:24:28,200:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 15:00:00
+2017-11-25 12:24:28,200:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 15:30:00
+2017-11-25 12:24:28,201:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 15:35:00
+2017-11-25 12:24:28,201:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:20:00
+2017-11-25 12:24:28,201:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:24:28,202:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:24:28,202:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:24:28,202:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:24:28,202:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:50:00
+2017-11-25 12:24:28,204:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:55:00
+2017-11-25 12:24:28,204:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:55:00
+2017-11-25 12:24:28,204:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:55:00
+2017-11-25 12:24:28,205:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 9:00:00
+2017-11-25 12:24:28,205:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:30:00
+2017-11-25 12:24:28,205:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 10:00:00
+2017-11-25 12:24:28,206:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:00:00
+2017-11-25 12:24:28,206:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:05:00
+2017-11-25 12:24:28,206:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:24:28,206:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:24:28,207:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 13:00:00
+2017-11-25 12:24:28,207:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 14:00:00
+2017-11-25 12:24:28,207:INFO: Conference Tracker has been created .. 
+2017-11-25 12:25:35,381:INFO: Conference Management Started. 
+2017-11-25 12:25:35,384:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:25:35,388:INFO: Input file Reading completed.
+2017-11-25 12:25:35,388:INFO: Conference Tracker Started .. 
+2017-11-25 12:25:48,016:INFO: Conference Management Started. 
+2017-11-25 12:25:48,019:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:25:48,023:INFO: Input file Reading completed.
+2017-11-25 12:25:48,023:INFO: Conference Tracker Started .. 
+2017-11-25 12:25:54,984:INFO: Conference Management Started. 
+2017-11-25 12:25:54,984:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:25:54,985:INFO: Input file Reading completed.
+2017-11-25 12:25:54,985:INFO: Conference Tracker Started .. 
+2017-11-25 12:25:54,985:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 9:00:00
+2017-11-25 12:25:54,985:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 9:45:00
+2017-11-25 12:25:54,986:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 10:45:00
+2017-11-25 12:25:54,986:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:45:00
+2017-11-25 12:25:54,986:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 12:25:54,986:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:25:54,986:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:25:54,987:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:25:54,987:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:25:54,987:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:25:54,987:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:25:54,987:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:25:54,987:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:25:54,987:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:25:54,987:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:25:54,987:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:25:54,988:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:25:54,988:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:25:54,988:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:25:54,988:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:25:54,988:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:25:54,988:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 13:00:00
+2017-11-25 12:25:54,988:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:45:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 14:45:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 15:15:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 15:45:00
+2017-11-25 12:25:54,989:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 15:50:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:20:00
+2017-11-25 12:25:54,989:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:20:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:25:54,989:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:25:54,989:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:25:54,990:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 9:00:00
+2017-11-25 12:25:54,990:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 9:30:00
+2017-11-25 12:25:54,990:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 10:15:00
+2017-11-25 12:25:54,990:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:00:00
+2017-11-25 12:25:54,990:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:30:00
+2017-11-25 12:25:54,990:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:25:54,990:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:25:54,990:DEBUG: Talk : Woah 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:25:54,990:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:25:54,990:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:25:54,990:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 13:30:00
+2017-11-25 12:25:54,991:DEBUG: Talk : Woah 30min ; Time : 30 , start: 14:30:00
+2017-11-25 12:25:54,991:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:00:00
+2017-11-25 12:25:54,991:INFO: Conference Tracker has been created .. 
+2017-11-25 12:44:33,386:INFO: Conference Management Started. 
+2017-11-25 12:44:33,388:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:44:33,392:INFO: Input file Reading completed.
+2017-11-25 12:44:33,396:INFO: Conference Tracker Started .. 
+2017-11-25 12:44:33,396:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 9:00:00
+2017-11-25 12:44:33,397:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 9:05:00
+2017-11-25 12:44:33,397:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 9:50:00
+2017-11-25 12:44:33,398:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 10:20:00
+2017-11-25 12:44:33,398:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:20:00
+2017-11-25 12:44:33,398:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:20:00
+2017-11-25 12:44:33,398:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:44:33,398:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:44:33,399:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:44:33,399:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:44:33,399:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:44:33,399:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:44:33,400:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:44:33,401:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:44:33,402:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:44:33,403:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:44:33,403:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:44:33,404:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:44:33,404:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:44:33,404:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:44:33,404:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:44:33,404:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 13:00:00
+2017-11-25 12:44:33,405:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 13:45:00
+2017-11-25 12:44:33,405:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 14:45:00
+2017-11-25 12:44:33,405:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 15:30:00
+2017-11-25 12:44:33,405:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:15:00
+2017-11-25 12:44:33,405:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:20:00
+2017-11-25 12:44:33,405:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:44:33,406:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:44:33,406:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:44:33,406:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:44:33,406:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:44:33,406:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:44:33,406:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:44:33,406:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:44:33,406:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:45:08,376:INFO: Conference Management Started. 
+2017-11-25 12:45:08,379:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:45:08,383:INFO: Input file Reading completed.
+2017-11-25 12:45:08,383:INFO: Conference Tracker Started .. 
+2017-11-25 12:45:08,384:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 9:00:00
+2017-11-25 12:45:08,384:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 9:05:00
+2017-11-25 12:45:08,384:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:10:00
+2017-11-25 12:45:08,384:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 9:55:00
+2017-11-25 12:45:08,385:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 10:40:00
+2017-11-25 12:45:08,385:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:25:00
+2017-11-25 12:45:08,385:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:25:00
+2017-11-25 12:45:08,385:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:25:00
+2017-11-25 12:45:08,385:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:45:08,385:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:45:08,385:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:45:08,386:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:45:08,387:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:45:08,389:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:45:08,390:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:45:08,390:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:45:08,391:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:45:08,391:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:45:08,391:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:45:08,391:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:45:08,391:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:45:08,392:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 13:00:00
+2017-11-25 12:45:08,392:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 13:45:00
+2017-11-25 12:45:08,392:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 14:15:00
+2017-11-25 12:45:08,392:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 15:15:00
+2017-11-25 12:45:08,392:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 15:45:00
+2017-11-25 12:45:08,392:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:15:00
+2017-11-25 12:45:08,392:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:45:00
+2017-11-25 12:45:08,393:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:45:00
+2017-11-25 12:45:08,393:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:45:00
+2017-11-25 12:45:08,393:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:45:00
+2017-11-25 12:45:08,393:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:45:00
+2017-11-25 12:45:08,393:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:45:00
+2017-11-25 12:45:08,393:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:45:00
+2017-11-25 12:45:08,393:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:45:00
+2017-11-25 12:45:08,393:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:45:00
+2017-11-25 12:46:03,314:INFO: Conference Management Started. 
+2017-11-25 12:46:03,317:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:46:03,321:INFO: Input file Reading completed.
+2017-11-25 12:46:03,322:INFO: Conference Tracker Started .. 
+2017-11-25 12:46:03,323:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:00:00
+2017-11-25 12:46:03,323:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 9:30:00
+2017-11-25 12:46:03,323:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 10:30:00
+2017-11-25 12:46:03,323:DEBUG: Talk : Woah 30min ; Time : 30 , start: 10:35:00
+2017-11-25 12:46:03,323:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:05:00
+2017-11-25 12:46:03,323:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:46:03,324:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:46:03,325:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 13:00:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 14:00:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 14:05:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 14:50:00
+2017-11-25 12:46:03,325:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 15:20:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 15:50:00
+2017-11-25 12:46:03,325:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:20:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:46:03,325:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:46:03,326:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:46:03,326:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:46:03,326:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:46:03,326:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:51:56,998:INFO: Conference Management Started. 
+2017-11-25 12:51:57,000:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:51:57,005:INFO: Input file Reading completed.
+2017-11-25 12:51:57,005:INFO: Conference Tracker Started .. 
+2017-11-25 12:51:57,006:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 9:00:00
+2017-11-25 12:51:57,006:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 9:45:00
+2017-11-25 12:51:57,007:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 10:15:00
+2017-11-25 12:51:57,007:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:00:00
+2017-11-25 12:51:57,007:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:51:57,008:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:51:57,008:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:51:57,008:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:51:57,008:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:51:57,008:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 12:51:57,008:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:51:57,009:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:51:57,009:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:51:57,009:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:51:57,009:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:51:57,009:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:51:57,009:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:51:57,009:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:51:57,009:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:51:57,009:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:51:57,010:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:51:57,010:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 13:00:00
+2017-11-25 12:51:57,010:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 14:00:00
+2017-11-25 12:51:57,010:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 14:30:00
+2017-11-25 12:51:57,010:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 15:00:00
+2017-11-25 12:51:57,010:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 15:05:00
+2017-11-25 12:51:57,010:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:10:00
+2017-11-25 12:51:57,011:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 15:55:00
+2017-11-25 12:51:57,011:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:40:00
+2017-11-25 12:51:57,011:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:40:00
+2017-11-25 12:51:57,011:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:40:00
+2017-11-25 12:51:57,011:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:40:00
+2017-11-25 12:51:57,011:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:40:00
+2017-11-25 12:51:57,011:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:40:00
+2017-11-25 12:51:57,011:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:40:00
+2017-11-25 12:51:57,011:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:40:00
+2017-11-25 12:54:47,931:INFO: Conference Management Started. 
+2017-11-25 12:54:47,931:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:54:47,932:INFO: Input file Reading completed.
+2017-11-25 12:54:47,932:INFO: Conference Tracker Started .. 
+2017-11-25 12:54:47,932:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 9:00:00
+2017-11-25 12:54:47,932:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:00:00
+2017-11-25 12:54:47,932:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 10:45:00
+2017-11-25 12:54:47,932:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:30:00
+2017-11-25 12:54:47,932:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:30:00
+2017-11-25 12:54:47,932:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:54:47,932:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Woah 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:54:47,933:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 13:30:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 14:00:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 14:05:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Woah 30min ; Time : 30 , start: 14:35:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 15:05:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:05:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:54:47,934:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:54:47,934:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:54:47,934:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:50:00
+2017-11-25 12:54:47,935:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:55:00
+2017-11-25 12:54:47,935:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:55:00
+2017-11-25 12:55:00,441:INFO: Conference Management Started. 
+2017-11-25 12:55:00,442:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:55:00,442:INFO: Input file Reading completed.
+2017-11-25 12:55:00,442:INFO: Conference Tracker Started .. 
+2017-11-25 12:55:00,442:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:00:00
+2017-11-25 12:55:00,442:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 9:45:00
+2017-11-25 12:55:00,442:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 10:45:00
+2017-11-25 12:55:00,442:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:45:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 12:55:00,443:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:00,443:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:55:00,443:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:55:00,443:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:55:00,444:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:55:00,444:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 13:30:00
+2017-11-25 12:55:00,444:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 14:15:00
+2017-11-25 12:55:00,444:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 14:45:00
+2017-11-25 12:55:00,444:DEBUG: Talk : Woah 30min ; Time : 30 , start: 15:45:00
+2017-11-25 12:55:00,444:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:15:00
+2017-11-25 12:55:00,444:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:45:00
+2017-11-25 12:55:00,444:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:00,444:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:55:00,444:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:00,445:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:00:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 9:30:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 10:15:00
+2017-11-25 12:55:00,445:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 10:45:00
+2017-11-25 12:55:00,445:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:15:00
+2017-11-25 12:55:00,446:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:55:00,446:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:55:00,446:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:45:00
+2017-11-25 12:55:00,446:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:45:00
+2017-11-25 12:55:00,446:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:00:00
+2017-11-25 12:55:00,446:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 14:00:00
+2017-11-25 12:55:00,446:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:00:00
+2017-11-25 12:55:00,446:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 15:45:00
+2017-11-25 12:55:00,446:INFO: Conference Tracker has been created .. 
+2017-11-25 12:55:25,355:INFO: Conference Management Started. 
+2017-11-25 12:55:25,356:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:55:25,356:INFO: Input file Reading completed.
+2017-11-25 12:55:25,356:INFO: Conference Tracker Started .. 
+2017-11-25 12:55:25,356:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 9:00:00
+2017-11-25 12:55:25,357:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 9:05:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:35:00
+2017-11-25 12:55:25,357:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 10:20:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Woah 30min ; Time : 30 , start: 10:50:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:20:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:20:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:20:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:55:25,357:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 13:30:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 14:00:00
+2017-11-25 12:55:25,358:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 14:05:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 14:50:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 15:35:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:05:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:55:25,359:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 9:00:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 9:45:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 10:45:00
+2017-11-25 12:55:25,359:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:55:25,360:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:55:25,360:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:55:25,360:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:55:25,360:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 13:00:00
+2017-11-25 12:55:25,360:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 14:00:00
+2017-11-25 12:55:25,360:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 14:30:00
+2017-11-25 12:55:25,360:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 15:00:00
+2017-11-25 12:55:25,360:INFO: Conference Tracker has been created .. 
+2017-11-25 12:55:46,242:INFO: Conference Management Started. 
+2017-11-25 12:55:46,242:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:55:46,242:INFO: Input file Reading completed.
+2017-11-25 12:55:46,242:INFO: Conference Tracker Started .. 
+2017-11-25 12:55:46,242:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 9:00:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 10:00:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:30:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:15:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:45:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:45:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 12:55:46,243:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:55:46,243:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:46,243:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:55:46,244:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:50:00
+2017-11-25 12:55:46,244:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:46,244:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:55:46,244:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:46,244:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:50:00
+2017-11-25 12:55:46,244:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:55:46,244:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:55:46,244:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 13:00:00
+2017-11-25 12:55:46,244:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 13:05:00
+2017-11-25 12:55:46,244:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 13:35:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:20:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:20:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:05:00
+2017-11-25 12:55:46,245:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:50:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 9:00:00
+2017-11-25 12:55:46,245:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 10:00:00
+2017-11-25 12:55:46,246:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:00:00
+2017-11-25 12:55:46,246:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:30:00
+2017-11-25 12:55:46,246:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:30:00
+2017-11-25 12:55:46,246:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:55:46,246:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:55:46,246:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:55:46,246:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:55:46,246:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 13:30:00
+2017-11-25 12:55:46,246:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 14:15:00
+2017-11-25 12:55:46,246:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 14:45:00
+2017-11-25 12:55:46,246:INFO: Conference Tracker has been created .. 
+2017-11-25 12:58:44,911:INFO: Conference Management Started. 
+2017-11-25 12:58:44,911:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:58:44,911:INFO: Input file Reading completed.
+2017-11-25 12:58:44,911:INFO: Conference Tracker Started .. 
+2017-11-25 12:58:44,912:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 9:00:00
+2017-11-25 12:58:44,913:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 10:00:00
+2017-11-25 12:58:44,913:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:00:00
+2017-11-25 12:58:44,913:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:58:44,913:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:58:44,914:DEBUG: Talk : Woah 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:58:44,914:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:58:44,914:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:58:44,914:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:58:44,914:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:58:44,914:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:58:44,914:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:58:44,915:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:58:44,915:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:58:44,915:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:58:44,915:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:58:44,915:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:58:44,915:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:58:44,915:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:58:44,916:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:58:44,916:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:58:44,916:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 13:00:00
+2017-11-25 12:58:44,916:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 13:45:00
+2017-11-25 12:58:44,916:DEBUG: Talk : Woah 30min ; Time : 30 , start: 14:15:00
+2017-11-25 12:58:44,916:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 14:45:00
+2017-11-25 12:58:44,916:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 15:15:00
+2017-11-25 12:58:44,917:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:00:00
+2017-11-25 12:58:44,917:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:45:00
+2017-11-25 12:58:44,917:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:45:00
+2017-11-25 12:58:44,918:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:45:00
+2017-11-25 12:58:44,918:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:45:00
+2017-11-25 12:58:44,918:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:45:00
+2017-11-25 12:58:44,918:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:45:00
+2017-11-25 12:58:44,918:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:45:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:50:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:50:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:55:00
+2017-11-25 12:58:44,919:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:55:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:55:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 9:00:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 9:45:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 10:30:00
+2017-11-25 12:58:44,919:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:15:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 12:58:44,919:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:50:00
+2017-11-25 12:58:44,920:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 12:58:44,920:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:58:44,920:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 12:58:44,920:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 12:58:44,921:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 13:00:00
+2017-11-25 12:58:44,921:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 13:05:00
+2017-11-25 12:58:44,921:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 13:35:00
+2017-11-25 12:58:44,921:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 14:05:00
+2017-11-25 12:59:04,839:INFO: Conference Management Started. 
+2017-11-25 12:59:04,839:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:59:04,839:INFO: Input file Reading completed.
+2017-11-25 12:59:04,839:INFO: Conference Tracker Started .. 
+2017-11-25 12:59:04,840:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 9:00:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:00:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 10:45:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 10:50:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:35:00
+2017-11-25 12:59:04,840:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:35:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:40:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:40:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:40:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:40:00
+2017-11-25 12:59:04,840:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:40:00
+2017-11-25 12:59:04,841:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:40:00
+2017-11-25 12:59:04,841:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:40:00
+2017-11-25 12:59:04,841:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:40:00
+2017-11-25 12:59:04,841:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:40:00
+2017-11-25 12:59:04,841:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:40:00
+2017-11-25 12:59:04,841:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:40:00
+2017-11-25 12:59:04,841:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:40:00
+2017-11-25 12:59:04,841:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:40:00
+2017-11-25 12:59:04,842:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:59:04,842:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 13:30:00
+2017-11-25 12:59:04,842:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 14:00:00
+2017-11-25 12:59:04,842:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 14:05:00
+2017-11-25 12:59:04,842:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 14:50:00
+2017-11-25 12:59:04,842:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 15:50:00
+2017-11-25 12:59:04,842:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:35:00
+2017-11-25 12:59:04,842:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:35:00
+2017-11-25 12:59:04,843:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:35:00
+2017-11-25 12:59:04,843:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:35:00
+2017-11-25 12:59:04,843:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:35:00
+2017-11-25 12:59:04,843:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:35:00
+2017-11-25 12:59:04,843:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:35:00
+2017-11-25 12:59:04,843:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:35:00
+2017-11-25 12:59:04,843:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:35:00
+2017-11-25 12:59:04,843:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:35:00
+2017-11-25 12:59:36,914:INFO: Conference Management Started. 
+2017-11-25 12:59:36,914:INFO: Reading Input file (proposed talks. 
+2017-11-25 12:59:36,914:INFO: Input file Reading completed.
+2017-11-25 12:59:36,914:INFO: Conference Tracker Started .. 
+2017-11-25 12:59:36,914:DEBUG: Talk : Woah 30min ; Time : 30 , start: 9:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:30:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 10:15:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 10:45:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:30:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:30:00
+2017-11-25 12:59:36,915:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:59:36,915:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 12:00:00
+2017-11-25 12:59:36,916:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:59:36,916:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:59:36,916:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:59:36,916:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:59:36,916:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:59:36,916:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:59:36,916:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 13:30:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 14:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 15:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 15:30:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 17:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 17:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 17:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 17:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 17:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 17:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 12:59:36,917:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 17:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 17:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 9:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 10:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 10:45:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:30:00
+2017-11-25 12:59:36,918:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:30:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 12:59:36,918:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 13:00:00
+2017-11-25 12:59:36,919:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 13:30:00
+2017-11-25 12:59:36,919:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 13:35:00
+2017-11-25 12:59:36,919:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 14:35:00
+2017-11-25 12:59:36,919:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 14:40:00
+2017-11-25 12:59:36,919:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 15:40:00
+2017-11-25 12:59:36,920:INFO: Conference Tracker has been created .. 
+2017-11-25 13:01:03,412:INFO: Conference Management Started. 
+2017-11-25 13:01:03,415:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:01:03,419:INFO: Input file Reading completed.
+2017-11-25 13:01:03,419:INFO: Conference Tracker Started .. 
+2017-11-25 13:01:03,419:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:01:03,419:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 9:30:00
+2017-11-25 13:01:03,419:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 10:30:00
+2017-11-25 13:01:03,419:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:15:00
+2017-11-25 13:01:03,419:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:20:00
+2017-11-25 13:01:03,420:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:20:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:01:03,420:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:01:03,420:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:55:00
+2017-11-25 13:01:03,420:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:01:03,421:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 13:45:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 14:15:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 14:45:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 15:30:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:15:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:45:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:45:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:01:03,421:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:50:00
+2017-11-25 13:01:03,421:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 9:00:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 9:05:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 10:05:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:05:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:01:03,422:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Woah 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:01:03,422:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 13:30:00
+2017-11-25 13:01:03,422:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 14:00:00
+2017-11-25 13:01:03,423:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:45:00
+2017-11-25 13:02:33,475:INFO: Conference Management Started. 
+2017-11-25 13:02:33,478:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:02:33,482:INFO: Input file Reading completed.
+2017-11-25 13:02:33,483:INFO: Conference Tracker Started .. 
+2017-11-25 13:02:33,484:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:02:33,484:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:45:00
+2017-11-25 13:02:33,484:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 10:15:00
+2017-11-25 13:02:33,484:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 10:45:00
+2017-11-25 13:02:33,484:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 10:50:00
+2017-11-25 13:02:33,484:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:02:33,484:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:02:33,485:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:02:33,485:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:02:33,485:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:02:33,485:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:02:33,485:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:02:33,485:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:02:33,486:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:02:33,486:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:02:33,486:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:02:33,487:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:02:33,487:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:02:33,487:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:02:33,487:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:02:33,487:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 13:02:33,488:DEBUG: Talk : Woah 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:02:33,489:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 13:30:00
+2017-11-25 13:02:33,489:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 14:15:00
+2017-11-25 13:02:33,489:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 14:45:00
+2017-11-25 13:02:33,490:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 15:30:00
+2017-11-25 13:02:33,490:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:15:00
+2017-11-25 13:02:33,490:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:15:00
+2017-11-25 13:02:33,490:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:15:00
+2017-11-25 13:02:33,490:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:02:33,491:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:02:33,491:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:02:33,491:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 17:00:00
+2017-11-25 13:02:33,491:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:02:33,491:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:02:33,491:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 13:04:22,285:INFO: Conference Management Started. 
+2017-11-25 13:04:22,288:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:04:22,292:INFO: Input file Reading completed.
+2017-11-25 13:04:22,292:INFO: Conference Tracker Started .. 
+2017-11-25 13:04:22,292:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 9:00:00
+2017-11-25 13:04:22,293:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 9:05:00
+2017-11-25 13:04:22,293:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 10:05:00
+2017-11-25 13:04:22,293:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:50:00
+2017-11-25 13:04:22,293:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:22,293:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:04:22,293:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:04:22,294:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:04:22,294:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:04:22,294:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:22,294:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:04:22,294:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:22,294:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:22,294:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:04:22,295:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:04:22,295:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:22,295:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:22,295:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:22,295:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:04:22,295:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:22,295:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:35:00
+2017-11-25 13:04:22,296:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 13:00:00
+2017-11-25 13:04:22,296:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 14:00:00
+2017-11-25 13:04:22,296:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:45:00
+2017-11-25 13:04:22,296:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:45:00
+2017-11-25 13:04:22,296:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:30:00
+2017-11-25 13:04:22,296:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 17:00:00
+2017-11-25 13:04:22,296:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:04:22,297:DEBUG: Talk : Woah 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:04:22,297:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:04:22,297:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 17:00:00
+2017-11-25 13:04:22,297:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:04:22,297:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:04:22,297:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:04:22,297:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:04:22,298:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:04:22,298:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 13:04:28,745:INFO: Conference Management Started. 
+2017-11-25 13:04:28,745:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:04:28,745:INFO: Input file Reading completed.
+2017-11-25 13:04:28,745:INFO: Conference Tracker Started .. 
+2017-11-25 13:04:28,745:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:04:28,746:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 9:45:00
+2017-11-25 13:04:28,746:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 10:15:00
+2017-11-25 13:04:28,746:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:00:00
+2017-11-25 13:04:28,746:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:05:00
+2017-11-25 13:04:28,746:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:28,746:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:35:00
+2017-11-25 13:04:28,747:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:04:28,747:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:04:28,748:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:04:28,748:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:04:28,748:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 13:00:00
+2017-11-25 13:04:28,748:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 14:00:00
+2017-11-25 13:04:28,748:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 15:00:00
+2017-11-25 13:04:28,748:DEBUG: Talk : Woah 30min ; Time : 30 , start: 15:30:00
+2017-11-25 13:04:28,748:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:00:00
+2017-11-25 13:04:28,749:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:05:00
+2017-11-25 13:04:28,749:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:04:28,749:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:35:00
+2017-11-25 13:04:28,750:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:04:28,750:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:04:28,750:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:04:28,750:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:35:00
+2017-11-25 13:04:28,750:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:04:28,750:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:35:00
+2017-11-25 13:04:28,750:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:04:28,751:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:04:28,751:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 9:45:00
+2017-11-25 13:04:28,751:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:45:00
+2017-11-25 13:04:28,751:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:30:00
+2017-11-25 13:04:28,751:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:04:28,751:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:04:28,752:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:04:28,752:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:04:28,752:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:04:28,752:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:04:28,752:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 13:30:00
+2017-11-25 13:04:28,752:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 14:30:00
+2017-11-25 13:04:28,752:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 15:15:00
+2017-11-25 13:04:28,752:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:15:00
+2017-11-25 13:04:28,753:INFO: Conference Tracker has been created .. 
+2017-11-25 13:34:22,850:INFO: Conference Management Started. 
+2017-11-25 13:34:22,853:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:34:22,853:INFO: Input file Reading completed.
+2017-11-25 13:34:22,853:INFO: Conference Tracker Started .. 
+2017-11-25 13:34:22,854:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:34:22,854:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 9:45:00
+2017-11-25 13:34:22,854:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 10:15:00
+2017-11-25 13:34:22,854:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:15:00
+2017-11-25 13:34:22,854:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:15:00
+2017-11-25 13:34:22,854:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:15:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:45:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:45:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:45:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:45:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:34:22,855:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 13:34:22,856:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:34:22,856:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 13:45:00
+2017-11-25 13:34:22,856:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:30:00
+2017-11-25 13:34:22,856:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 15:30:00
+2017-11-25 13:34:22,856:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:15:00
+2017-11-25 13:34:22,856:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:20:00
+2017-11-25 13:34:22,857:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:20:00
+2017-11-25 13:34:22,857:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:20:00
+2017-11-25 13:34:22,857:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:34:22,857:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:34:22,857:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:34:22,857:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:34:22,857:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:34:22,857:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:34:22,858:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:50:00
+2017-11-25 13:34:22,858:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:34:22,858:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:30:00
+2017-11-25 13:34:22,858:DEBUG: Talk : Woah 30min ; Time : 30 , start: 10:00:00
+2017-11-25 13:34:22,858:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 10:30:00
+2017-11-25 13:34:22,858:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:00:00
+2017-11-25 13:34:22,859:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:30:00
+2017-11-25 13:34:22,859:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:34:22,859:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:34:22,859:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:34:22,859:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 13:30:00
+2017-11-25 13:34:22,860:INFO: Conference Tracker has been created .. 
+2017-11-25 13:34:52,909:INFO: Conference Management Started. 
+2017-11-25 13:34:52,912:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:34:52,913:INFO: Input file Reading completed.
+2017-11-25 13:34:52,913:INFO: Conference Tracker Started .. 
+2017-11-25 13:34:52,913:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:34:52,913:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:30:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 10:15:00
+2017-11-25 13:34:52,914:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Woah 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:34:52,914:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:34:52,915:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 13:45:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 14:30:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 15:00:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 15:45:00
+2017-11-25 13:34:52,915:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:15:00
+2017-11-25 13:34:52,915:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:15:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:45:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:45:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:45:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:45:00
+2017-11-25 13:34:52,916:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:50:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:55:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:55:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 9:00:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Woah 30min ; Time : 30 , start: 10:00:00
+2017-11-25 13:34:52,916:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 10:30:00
+2017-11-25 13:34:52,917:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 10:35:00
+2017-11-25 13:34:52,917:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:05:00
+2017-11-25 13:34:52,917:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:10:00
+2017-11-25 13:34:52,917:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:10:00
+2017-11-25 13:34:52,917:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:10:00
+2017-11-25 13:34:52,917:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 13:00:00
+2017-11-25 13:34:52,917:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 14:00:00
+2017-11-25 13:34:52,917:INFO: Conference Tracker has been created .. 
+2017-11-25 13:35:39,095:INFO: Conference Management Started. 
+2017-11-25 13:35:39,098:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:35:39,098:INFO: Input file Reading completed.
+2017-11-25 13:35:39,099:INFO: Conference Tracker Started .. 
+2017-11-25 13:35:39,099:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:35:39,099:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 9:30:00
+2017-11-25 13:35:39,099:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 10:15:00
+2017-11-25 13:35:39,099:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:00:00
+2017-11-25 13:35:39,099:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:30:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:35:39,100:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:35:39,101:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:35:39,101:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:35:39,101:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:35:39,101:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:35:39,101:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:35:00
+2017-11-25 13:35:39,101:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:00:00
+2017-11-25 13:35:39,101:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 14:00:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:30:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:30:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:15:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:35:39,102:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 17:00:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 17:00:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Woah 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:35:39,102:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:35:39,103:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:35:39,103:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 13:37:15,224:INFO: Conference Management Started. 
+2017-11-25 13:37:15,227:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:37:15,228:INFO: Input file Reading completed.
+2017-11-25 13:37:15,228:INFO: Conference Tracker Started .. 
+2017-11-25 13:37:15,228:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 9:00:00
+2017-11-25 13:37:15,228:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:00:00
+2017-11-25 13:37:15,228:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 10:45:00
+2017-11-25 13:37:15,228:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:30:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:30:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:30:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:37:15,229:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:35:00
+2017-11-25 13:37:15,229:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:37:15,229:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:37:15,230:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:37:15,230:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 13:00:00
+2017-11-25 13:37:15,230:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 13:05:00
+2017-11-25 13:37:15,230:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 14:05:00
+2017-11-25 13:37:15,230:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 14:35:00
+2017-11-25 13:37:15,230:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 14:40:00
+2017-11-25 13:37:15,230:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:10:00
+2017-11-25 13:37:15,230:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 15:55:00
+2017-11-25 13:37:15,230:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:37:15,231:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:37:15,231:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:37:15,231:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:37:15,231:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:37:15,231:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:37:15,231:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:37:15,231:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:37:15,231:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:37:38,849:INFO: Conference Management Started. 
+2017-11-25 13:37:38,852:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:37:38,856:INFO: Input file Reading completed.
+2017-11-25 13:37:38,856:INFO: Conference Tracker Started .. 
+2017-11-25 13:37:38,857:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:37:38,858:DEBUG: Talk : Woah 30min ; Time : 30 , start: 9:30:00
+2017-11-25 13:37:38,858:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 10:00:00
+2017-11-25 13:37:38,858:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 10:30:00
+2017-11-25 13:37:38,858:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:15:00
+2017-11-25 13:37:38,858:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:37:38,858:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:37:38,858:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:37:38,859:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:37:38,860:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:37:38,860:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:37:38,860:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:37:38,860:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 13:30:00
+2017-11-25 13:37:38,860:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 14:00:00
+2017-11-25 13:37:38,860:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 15:00:00
+2017-11-25 13:37:38,860:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:30:00
+2017-11-25 13:37:38,861:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:15:00
+2017-11-25 13:37:38,861:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:37:38,861:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 13:37:38,861:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:37:38,861:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:37:38,861:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:37:38,861:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 17:00:00
+2017-11-25 13:37:38,861:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:37:38,862:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 17:00:00
+2017-11-25 13:37:38,862:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 13:37:38,862:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:37:38,862:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 9:00:00
+2017-11-25 13:37:38,863:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 10:00:00
+2017-11-25 13:37:38,863:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 10:05:00
+2017-11-25 13:37:38,863:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 10:35:00
+2017-11-25 13:37:38,863:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:37:38,863:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:37:38,863:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:37:38,864:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:37:38,864:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:35:00
+2017-11-25 13:37:38,864:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:37:38,865:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:37:38,865:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 13:45:00
+2017-11-25 13:37:38,865:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 14:15:00
+2017-11-25 13:37:38,865:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 15:00:00
+2017-11-25 13:37:38,865:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 15:05:00
+2017-11-25 13:39:49,001:INFO: Conference Management Started. 
+2017-11-25 13:39:49,004:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:39:49,008:INFO: Input file Reading completed.
+2017-11-25 13:39:49,008:INFO: Conference Tracker Started .. 
+2017-11-25 13:39:49,009:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:39:49,009:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 9:30:00
+2017-11-25 13:39:49,009:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 10:30:00
+2017-11-25 13:39:49,009:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:00:00
+2017-11-25 13:39:49,009:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:39:49,010:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:39:49,010:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:39:49,010:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:39:49,010:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:39:49,010:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:39:49,010:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:39:49,010:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:39:49,010:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:39:49,010:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:39:49,011:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:39:49,011:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:39:49,011:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:39:49,011:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:39:49,011:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:39:49,011:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:39:49,011:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:39:49,012:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:00:00
+2017-11-25 13:39:49,012:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 14:00:00
+2017-11-25 13:39:49,012:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 14:30:00
+2017-11-25 13:39:49,012:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:00:00
+2017-11-25 13:39:49,012:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 15:45:00
+2017-11-25 13:39:49,013:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:30:00
+2017-11-25 13:39:49,013:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:39:49,013:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:35:00
+2017-11-25 13:39:49,013:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:39:49,013:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:39:49,013:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:35:00
+2017-11-25 13:39:49,013:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:40:00
+2017-11-25 13:39:49,013:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:40:00
+2017-11-25 13:39:49,014:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:40:00
+2017-11-25 13:39:49,014:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:40:00
+2017-11-25 13:39:49,014:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:40:00
+2017-11-25 13:39:49,014:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 9:00:00
+2017-11-25 13:39:49,014:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 10:00:00
+2017-11-25 13:39:49,014:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 10:45:00
+2017-11-25 13:39:49,015:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:15:00
+2017-11-25 13:39:49,015:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:20:00
+2017-11-25 13:39:49,015:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:39:49,015:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:39:49,015:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:39:49,015:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:39:49,015:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:39:49,015:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 13:45:00
+2017-11-25 13:39:49,016:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 14:45:00
+2017-11-25 13:39:49,016:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 15:45:00
+2017-11-25 13:39:49,016:INFO: Conference Tracker has been created .. 
+2017-11-25 13:40:31,690:INFO: Conference Management Started. 
+2017-11-25 13:40:31,690:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:40:31,691:INFO: Input file Reading completed.
+2017-11-25 13:40:31,691:INFO: Conference Tracker Started .. 
+2017-11-25 13:40:31,692:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:40:31,692:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 9:45:00
+2017-11-25 13:40:31,692:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 10:45:00
+2017-11-25 13:40:31,692:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 13:40:31,692:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:40:31,692:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:40:31,693:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 13:40:31,694:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:40:31,694:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:40:31,694:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:40:31,694:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:40:31,694:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 13:40:31,694:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:40:31,694:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:40:31,694:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 13:30:00
+2017-11-25 13:40:31,695:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:15:00
+2017-11-25 13:40:31,695:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 15:15:00
+2017-11-25 13:40:31,695:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 15:45:00
+2017-11-25 13:40:31,695:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:45:00
+2017-11-25 13:40:31,695:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:45:00
+2017-11-25 13:40:31,695:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:45:00
+2017-11-25 13:40:31,695:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:45:00
+2017-11-25 13:40:31,695:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:45:00
+2017-11-25 13:40:31,695:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:40:31,696:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:40:31,696:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:40:31,696:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:40:31,696:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:50:00
+2017-11-25 13:40:31,696:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:40:31,696:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:40:31,696:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 9:45:00
+2017-11-25 13:40:31,696:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 10:30:00
+2017-11-25 13:40:31,696:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:00:00
+2017-11-25 13:40:31,696:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:05:00
+2017-11-25 13:40:31,697:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:40:31,697:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:40:31,697:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:40:31,697:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:40:31,697:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:40:31,697:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:40:31,697:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:30:00
+2017-11-25 13:40:31,697:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 14:30:00
+2017-11-25 13:40:31,697:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:00:00
+2017-11-25 13:40:31,697:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 15:45:00
+2017-11-25 13:40:31,698:INFO: Conference Tracker has been created .. 
+2017-11-25 13:43:05,248:INFO: Conference Management Started. 
+2017-11-25 13:43:05,250:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:43:05,254:INFO: Input file Reading completed.
+2017-11-25 13:43:05,254:INFO: Conference Tracker Started .. 
+2017-11-25 13:43:05,255:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 9:00:00
+2017-11-25 13:43:05,255:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 10:00:00
+2017-11-25 13:43:05,255:DEBUG: Talk : Woah 30min ; Time : 30 , start: 10:30:00
+2017-11-25 13:43:05,255:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:00:00
+2017-11-25 13:43:05,255:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:43:05,256:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:43:05,256:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:43:05,256:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:43:05,256:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:43:05,256:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:43:05,257:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:43:05,257:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:43:05,257:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:43:05,257:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:43:05,257:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:43:05,257:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:43:05,257:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:43:05,258:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:43:05,258:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:43:05,258:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:43:05,258:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:43:05,258:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:43:05,258:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 13:45:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 13:50:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:35:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 15:35:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 15:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:40:00
+2017-11-25 13:43:05,259:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:40:00
+2017-11-25 13:43:05,260:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:40:00
+2017-11-25 13:43:22,639:INFO: Conference Management Started. 
+2017-11-25 13:43:22,641:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:43:22,645:INFO: Input file Reading completed.
+2017-11-25 13:43:22,646:INFO: Conference Tracker Started .. 
+2017-11-25 13:43:22,646:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:43:22,647:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 9:45:00
+2017-11-25 13:43:22,647:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 10:15:00
+2017-11-25 13:43:22,647:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 10:20:00
+2017-11-25 13:43:22,647:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:05:00
+2017-11-25 13:43:22,647:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:35:00
+2017-11-25 13:43:22,648:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:43:22,648:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:35:00
+2017-11-25 13:43:22,648:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:35:00
+2017-11-25 13:43:22,648:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:35:00
+2017-11-25 13:43:22,648:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:43:22,648:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:43:22,648:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:43:22,648:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:43:22,648:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:43:22,649:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:43:22,649:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:43:22,649:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:43:22,649:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:43:22,649:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:43:22,649:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:43:22,649:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:43:22,650:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 13:45:00
+2017-11-25 13:43:22,650:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 14:15:00
+2017-11-25 13:43:22,650:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 15:00:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:05:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 15:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:50:00
+2017-11-25 13:43:22,651:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 9:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 10:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Woah 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Woah 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 13:30:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 14:00:00
+2017-11-25 13:43:22,652:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 14:30:00
+2017-11-25 13:43:22,653:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 15:15:00
+2017-11-25 13:43:22,653:INFO: Conference Tracker has been created .. 
+2017-11-25 13:47:55,894:INFO: Conference Management Started. 
+2017-11-25 13:47:55,896:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:47:55,900:INFO: Input file Reading completed.
+2017-11-25 13:47:55,901:INFO: Conference Tracker Started .. 
+2017-11-25 13:47:55,901:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 9:00:00
+2017-11-25 13:47:55,901:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 10:00:00
+2017-11-25 13:47:55,901:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 10:30:00
+2017-11-25 13:47:55,902:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:15:00
+2017-11-25 13:47:55,902:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:47:55,902:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:47:55,902:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:47:55,902:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:47:55,902:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:47:55,902:DEBUG: Talk : Woah 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:47:55,902:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:47:55,903:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:47:55,904:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:47:55,904:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:00:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 14:00:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:30:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 15:30:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 15:35:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Woah 30min ; Time : 30 , start: 15:40:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 16:10:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:55:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:47:55,905:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:55:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:47:55,905:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:47:55,906:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:47:55,906:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:47:55,906:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:48:11,331:INFO: Conference Management Started. 
+2017-11-25 13:48:11,331:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:48:11,332:INFO: Input file Reading completed.
+2017-11-25 13:48:11,332:INFO: Conference Tracker Started .. 
+2017-11-25 13:48:11,332:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:48:11,332:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 9:45:00
+2017-11-25 13:48:11,332:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 10:15:00
+2017-11-25 13:48:11,333:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 10:45:00
+2017-11-25 13:48:11,333:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:45:00
+2017-11-25 13:48:11,333:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:45:00
+2017-11-25 13:48:11,333:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:45:00
+2017-11-25 13:48:11,333:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 13:48:11,333:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:48:11,333:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:48:11,333:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:48:11,334:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:48:11,334:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:48:11,334:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:48:11,334:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:48:11,334:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 13:48:11,334:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:55:00
+2017-11-25 13:48:11,334:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:48:11,334:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:48:11,335:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:48:11,335:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:55:00
+2017-11-25 13:48:11,335:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 13:00:00
+2017-11-25 13:48:11,335:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 14:00:00
+2017-11-25 13:48:11,335:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 14:05:00
+2017-11-25 13:48:11,335:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 14:50:00
+2017-11-25 13:48:11,336:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 15:35:00
+2017-11-25 13:48:11,336:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:20:00
+2017-11-25 13:48:11,336:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:48:11,336:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:50:00
+2017-11-25 13:48:11,336:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:50:00
+2017-11-25 13:48:11,336:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:50:00
+2017-11-25 13:48:11,337:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:48:11,337:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:48:11,337:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 16:55:00
+2017-11-25 13:48:11,337:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:48:11,337:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:48:56,634:INFO: Conference Management Started. 
+2017-11-25 13:48:56,637:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:48:56,641:INFO: Input file Reading completed.
+2017-11-25 13:48:56,641:INFO: Conference Tracker Started .. 
+2017-11-25 13:48:56,642:DEBUG: Talk : Woah 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:48:56,642:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:30:00
+2017-11-25 13:48:56,643:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 10:15:00
+2017-11-25 13:48:56,643:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:00:00
+2017-11-25 13:48:56,643:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:45:00
+2017-11-25 13:48:56,643:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 13:48:56,643:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:48:56,643:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:48:56,643:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:48:56,644:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:48:56,644:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:48:56,644:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:48:56,644:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:48:56,644:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:48:56,644:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 13:48:56,644:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:48:56,645:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:48:56,645:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:48:56,645:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:48:56,645:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:48:56,645:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:48:56,645:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:48:56,646:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 13:45:00
+2017-11-25 13:48:56,646:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:30:00
+2017-11-25 13:48:56,646:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 15:30:00
+2017-11-25 13:48:56,646:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:00:00
+2017-11-25 13:48:56,646:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:30:00
+2017-11-25 13:48:56,646:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:48:56,646:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 17:00:00
+2017-11-25 13:48:56,646:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 17:00:00
+2017-11-25 13:48:56,647:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:48:56,647:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:48:56,647:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:48:56,647:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:48:56,648:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 13:48:56,648:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 17:00:00
+2017-11-25 13:49:13,416:INFO: Conference Management Started. 
+2017-11-25 13:49:13,419:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:49:13,423:INFO: Input file Reading completed.
+2017-11-25 13:49:13,424:INFO: Conference Tracker Started .. 
+2017-11-25 13:49:13,424:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 9:00:00
+2017-11-25 13:49:13,425:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 9:05:00
+2017-11-25 13:49:13,425:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:05:00
+2017-11-25 13:49:13,425:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 10:50:00
+2017-11-25 13:49:13,425:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:20:00
+2017-11-25 13:49:13,425:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:20:00
+2017-11-25 13:49:13,425:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:20:00
+2017-11-25 13:49:13,425:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:55:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:55:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:55:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:49:13,426:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 13:49:13,426:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:49:13,427:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:49:13,427:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 13:49:13,427:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 13:49:13,428:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:49:13,428:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 13:30:00
+2017-11-25 13:49:13,428:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:15:00
+2017-11-25 13:49:13,428:DEBUG: Talk : Woah 30min ; Time : 30 , start: 15:15:00
+2017-11-25 13:49:13,428:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 15:45:00
+2017-11-25 13:49:13,428:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 15:50:00
+2017-11-25 13:49:13,428:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:49:13,428:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:49:13,429:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:49:13,429:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:49:13,429:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:35:00
+2017-11-25 13:49:13,429:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:49:13,429:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:49:13,429:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:49:13,429:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:50:41,509:INFO: Conference Management Started. 
+2017-11-25 13:50:41,512:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:50:41,516:INFO: Input file Reading completed.
+2017-11-25 13:50:41,516:INFO: Conference Tracker Started .. 
+2017-11-25 13:50:41,516:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 9:00:00
+2017-11-25 13:50:41,517:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 9:05:00
+2017-11-25 13:50:41,517:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:35:00
+2017-11-25 13:50:41,517:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 10:20:00
+2017-11-25 13:50:41,517:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:05:00
+2017-11-25 13:50:41,517:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:05:00
+2017-11-25 13:50:41,517:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:05:00
+2017-11-25 13:50:41,517:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:35:00
+2017-11-25 13:50:41,518:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:50:41,518:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:50:41,518:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:50:41,518:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:50:41,518:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:50:41,518:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:50:41,518:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:50:41,518:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:50:41,519:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:50:41,519:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:50:41,519:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:40:00
+2017-11-25 13:50:41,519:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:40:00
+2017-11-25 13:50:41,519:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:40:00
+2017-11-25 13:50:41,519:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:50:41,519:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 13:30:00
+2017-11-25 13:50:41,520:DEBUG: Talk : Woah 30min ; Time : 30 , start: 13:35:00
+2017-11-25 13:50:41,520:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 14:05:00
+2017-11-25 13:50:41,520:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 15:05:00
+2017-11-25 13:50:41,520:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 15:35:00
+2017-11-25 13:50:41,520:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:05:00
+2017-11-25 13:50:41,520:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:50:41,520:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:50:41,521:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:50:41,521:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:35:00
+2017-11-25 13:50:41,521:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:50:41,521:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:35:00
+2017-11-25 13:50:41,521:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:35:00
+2017-11-25 13:50:41,521:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:35:00
+2017-11-25 13:51:45,124:INFO: Conference Management Started. 
+2017-11-25 13:51:45,127:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:51:45,127:INFO: Input file Reading completed.
+2017-11-25 13:51:45,128:INFO: Conference Tracker Started .. 
+2017-11-25 13:51:45,128:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 9:00:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 9:05:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 9:35:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 10:20:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:20:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:20:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:51:45,128:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:45:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Woah 30min ; Time : 30 , start: 14:45:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 15:15:00
+2017-11-25 13:51:45,129:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:15:00
+2017-11-25 13:51:45,130:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:45:00
+2017-11-25 13:51:45,130:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:45:00
+2017-11-25 13:51:45,141:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 9:00:00
+2017-11-25 13:51:45,141:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 9:45:00
+2017-11-25 13:51:45,141:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 10:15:00
+2017-11-25 13:51:45,141:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:00:00
+2017-11-25 13:51:45,142:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:51:45,142:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:51:45,142:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:51:45,142:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:51:45,142:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:51:45,142:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 13:00:00
+2017-11-25 13:51:45,143:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 14:00:00
+2017-11-25 13:51:45,143:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 14:45:00
+2017-11-25 13:51:45,143:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 15:15:00
+2017-11-25 13:51:45,145:INFO: Conference Tracker has been created .. 
+2017-11-25 13:58:19,830:INFO: Conference Management Started. 
+2017-11-25 13:58:19,833:INFO: Reading Input file (proposed talks. 
+2017-11-25 13:58:19,833:INFO: Input file Reading completed.
+2017-11-25 13:58:19,833:INFO: Conference Tracker Started .. 
+2017-11-25 13:58:19,834:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 9:30:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Woah 30min ; Time : 30 , start: 10:30:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:00:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:30:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:30:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:30:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:58:19,834:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 13:00:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 13:45:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 14:30:00
+2017-11-25 13:58:19,835:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 15:00:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 15:45:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:45:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:50:00
+2017-11-25 13:58:19,836:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:55:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:58:19,836:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 16:55:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 16:55:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:55:00
+2017-11-25 13:58:19,836:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 16:55:00
+2017-11-25 13:58:19,846:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 9:00:00
+2017-11-25 13:58:19,846:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 9:30:00
+2017-11-25 13:58:19,846:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 10:00:00
+2017-11-25 13:58:19,846:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 10:30:00
+2017-11-25 13:58:19,846:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:30:00
+2017-11-25 13:58:19,846:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:30:00
+2017-11-25 13:58:19,847:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:58:19,847:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 12:00:00
+2017-11-25 13:58:19,847:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 12:00:00
+2017-11-25 13:58:19,847:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 13:00:00
+2017-11-25 13:58:19,847:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:30:00
+2017-11-25 13:58:19,847:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 14:30:00
+2017-11-25 13:58:19,847:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 15:30:00
+2017-11-25 13:58:19,847:INFO: Conference Tracker has been created .. 
+2017-11-25 14:04:03,684:INFO: Conference Management Started. 
+2017-11-25 14:04:03,687:INFO: Reading Input file (proposed talks. 
+2017-11-25 14:04:03,688:INFO: Input file Reading completed.
+2017-11-25 14:04:03,688:INFO: Conference Tracker Started .. 
+2017-11-25 14:04:03,688:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 9:00:00
+2017-11-25 14:04:03,688:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 9:30:00
+2017-11-25 14:04:03,688:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 10:00:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:00:00
+2017-11-25 14:04:03,689:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:45:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:45:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:45:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:45:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:45:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 11:45:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:45:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:50:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:55:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:04:03,689:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 14:04:03,690:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 13:00:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:45:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 14:45:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 15:15:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 16:00:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 16:05:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 16:10:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 16:10:00
+2017-11-25 14:04:03,690:DEBUG: Talk : Woah 30min ; Time : 30 , start: 16:55:00
+2017-11-25 14:04:03,691:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 16:55:00
+2017-11-25 14:04:03,691:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 16:55:00
+2017-11-25 14:04:03,691:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 16:55:00
+2017-11-25 14:04:03,691:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 16:55:00
+2017-11-25 14:04:03,691:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:55:00
+2017-11-25 14:04:03,691:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 16:55:00
+2017-11-25 14:05:58,891:INFO: Conference Management Started. 
+2017-11-25 14:05:58,891:INFO: Reading Input file (proposed talks. 
+2017-11-25 14:05:58,891:INFO: Input file Reading completed.
+2017-11-25 14:05:58,891:INFO: Conference Tracker Started .. 
+2017-11-25 14:05:58,891:DEBUG: Talk : User Interface CSS in Rails Apps 30min ; Time : 30 , start: 9:00:00
+2017-11-25 14:05:58,891:DEBUG: Talk : Communicating Over Distance 60min ; Time : 60 , start: 9:30:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Common Ruby Errors 45min ; Time : 45 , start: 10:30:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Rails for Jva Developers lightning ; Time : 5 , start: 11:15:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Rails for Python Developers lightning ; Time : 5 , start: 11:20:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Lua for the Masses 30min ; Time : 30 , start: 11:25:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:05:58,892:DEBUG: Talk : Woah 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 11:55:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 11:55:00
+2017-11-25 14:05:58,893:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 11:55:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 11:55:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Rails Magic 60min ; Time : 60 , start: 13:00:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Pair Programming vs Noise 45min ; Time : 45 , start: 14:00:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Programming in the Boondocks of Seattle 30min ; Time : 30 , start: 14:45:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Ruby Errors from Mismatched Gem Versions 45min ; Time : 45 , start: 15:15:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Ruby on Rails: Why We Should Move On 60min ; Time : 60 , start: 16:00:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Accounting-Driven Development 45min ; Time : 45 , start: 17:00:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Sit Down and Write 30min ; Time : 30 , start: 17:00:00
+2017-11-25 14:05:58,893:DEBUG: Talk : Overdoing it in Python 45min ; Time : 45 , start: 17:00:00
+2017-11-25 14:05:58,893:DEBUG: Talk : A World Without HackerNews 30min ; Time : 30 , start: 17:00:00
+2017-11-25 14:05:58,894:DEBUG: Talk : Woah 30min ; Time : 30 , start: 17:00:00
+2017-11-25 14:05:58,894:DEBUG: Talk : Ruby on Rails Legacy App Maintenance 60min ; Time : 60 , start: 17:00:00
+2017-11-25 14:05:58,894:DEBUG: Talk : Ruby vs. Clojure for Back-End Development 30min ; Time : 30 , start: 17:00:00
+2017-11-25 14:05:58,894:DEBUG: Talk : Clojure Ate Scala (on my project) 45min ; Time : 45 , start: 17:00:00
+2017-11-25 14:05:58,894:DEBUG: Talk : User Interface CSS 2 in Rails Apps 30min ; Time : 30 , start: 17:00:00
+2017-11-25 14:05:58,894:DEBUG: Talk : Writing Fast Tests Against Enterprise Rails 60min ; Time : 60 , start: 17:00:00

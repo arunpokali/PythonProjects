@@ -1,0 +1,9 @@
+[timeSection]
+morning_start = 9
+lunch = 12
+afternoon_start = 13
+day_end = 17
+
+[fileDetails]
+input_file = 'Proposed_Talks.txt'
+
